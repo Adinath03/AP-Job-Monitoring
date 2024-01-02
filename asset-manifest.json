@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AP-Job-Monitoring/static/css/main.adebe629.css",
-    "main.js": "/AP-Job-Monitoring/static/js/main.1a675e7d.js",
+    "main.css": "/AP-Job-Monitoring/static/css/main.603c12e7.css",
+    "main.js": "/AP-Job-Monitoring/static/js/main.7e1c5257.js",
     "index.html": "/AP-Job-Monitoring/index.html",
-    "main.adebe629.css.map": "/AP-Job-Monitoring/static/css/main.adebe629.css.map",
-    "main.1a675e7d.js.map": "/AP-Job-Monitoring/static/js/main.1a675e7d.js.map"
+    "main.603c12e7.css.map": "/AP-Job-Monitoring/static/css/main.603c12e7.css.map",
+    "main.7e1c5257.js.map": "/AP-Job-Monitoring/static/js/main.7e1c5257.js.map"
   },
   "entrypoints": [
-    "static/css/main.adebe629.css",
-    "static/js/main.1a675e7d.js"
+    "static/css/main.603c12e7.css",
+    "static/js/main.7e1c5257.js"
   ]
 }
